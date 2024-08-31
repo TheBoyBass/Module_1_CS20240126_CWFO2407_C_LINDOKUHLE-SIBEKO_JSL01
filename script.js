@@ -11,6 +11,7 @@ function validateSyntax() {
     }
 
             document.getElementById('result').innerText = result;
+            document.alert(result);
 }
 
 
